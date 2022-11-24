@@ -1,0 +1,21 @@
+h3 {
+    text-align: center;
+}
+
+.main {
+    width: 530px;
+    display : block;
+    margin : auto;
+}
+
+button {
+    all: unset;
+}
+
+.parent {
+    justify-content: center;
+}
+
+.btn {
+    padding-left: 1350px;
+}
